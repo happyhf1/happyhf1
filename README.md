@@ -9,12 +9,12 @@ configuring my development environment
 solidity- lua - bash - git 
 ### Books I'm reading:
 ### Courses I'm taking:
-#### boot.dev: \
+#### boot.dev: 
 &emsp;github \
 &emsp;docker \
 &emsp;Learn to Code in Python \
 &emsp;Learn Object Oriented Programming in Python \
 &emsp;Build an AI Agent in Python \
-&emsp;Learn Retrieval Augmented Generation \
-#### updraft: \
+&emsp;Learn Retrieval Augmented Generation 
+#### updraft: 
 &emsp;defi 
