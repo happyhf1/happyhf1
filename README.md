@@ -9,12 +9,12 @@ configuring my development environment
 soldity - lua - bash - git 
 ### Books I'm reading:
 ### Courses I'm taking:
-boot.dev 
-  github \n
-  docker \n
-  Learn to Code in Python \n
-  Learn Object Oriented Programming in Python \n
-  Build an AI Agent in Python \n
-  Learn Retrieval Augmented Generation \n
-updraft: \n
-  defi \n
+boot.dev \
+  github \
+  docker \
+  Learn to Code in Python \
+  Learn Object Oriented Programming in Python \
+  Build an AI Agent in Python \
+  Learn Retrieval Augmented Generation \
+updraft: \
+  defi \
